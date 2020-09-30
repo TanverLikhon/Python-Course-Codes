@@ -46,5 +46,3 @@ if(0):
 else:
     pass
     #pass er poro onno statement thakle setao execute hobe
-
-#tanverlikhon@gmail.com
